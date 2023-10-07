@@ -1,0 +1,11 @@
+langchain
+faiss-gpu
+faiss-cpu
+sentence-transformers
+torch
+pypdf
+llama_index
+testresources
+setuptools
+llama-cpp-python
+transformers
